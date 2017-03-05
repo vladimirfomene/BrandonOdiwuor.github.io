@@ -1,6 +1,2 @@
 theme: jekyll-theme-hacker
-#title: Brandon Wayne Odiwuor
-webrick:
-  headers:
-    My-Header: My-Value
-    My-Other-Header: My-Other-Value
+title: Brandon Wayne Odiwuor
